@@ -1,0 +1,9 @@
+[submodule "submodules/boringssl"]
+	path = submodules/boringssl
+	url = https://github.com/google/boringssl
+[submodule "submodules/curl"]
+	path = submodules/curl
+	url = https://github.com/curl/curl
+[submodule "submodules/curl-impersonate"]
+	path = submodules/curl-impersonate
+	url = https://github.com/lwthiker/curl-impersonate
